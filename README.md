@@ -1,159 +1,159 @@
 # hkdm
 广东身份证前缀归属
 
-<option value="">--请选择--</option>
-<option value="440101" data-id="0">440101&nbsp;广州市辖</option>
-<option value="440103" data-id="0">440103&nbsp;广州荔湾</option>
-<option value="440104" data-id="0">440104&nbsp;广州越秀</option>
-<option value="440105" data-id="0">440105&nbsp;广州海珠</option>
-<option value="440106" data-id="0">440106&nbsp;广州天河</option>
-<option value="440111" data-id="0">440111&nbsp;广州白云</option>
-<option value="440112" data-id="0">440112&nbsp;广州黄埔</option>
-<option value="440113" data-id="0">440113&nbsp;广州番禺</option>
-<option value="440114" data-id="0">440114&nbsp;广州花都</option>
-<option value="440115" data-id="0">440115&nbsp;广州南沙</option>
-<option value="440117" data-id="1">440117&nbsp;广州从化</option>
-<option value="440118" data-id="0">440118&nbsp;广州增城</option>
-<option value="440201" data-id="0">440201&nbsp;韶关市辖</option>
-<option value="440203" data-id="0">440203&nbsp;韶关武江</option>
-<option value="440204" data-id="0">440204&nbsp;韶关浈江</option>
-<option value="440205" data-id="1">440205&nbsp;韶关曲江</option>
-<option value="440222" data-id="1">440222&nbsp;韶关始兴</option>
-<option value="440224" data-id="1">440224&nbsp;韶关仁化</option>
-<option value="440229" data-id="1">440229&nbsp;韶关翁源</option>
-<option value="440232" data-id="1">440232&nbsp;韶关乳源</option>
-<option value="440233" data-id="1">440233&nbsp;韶关新丰</option>
-<option value="440281" data-id="1">440281&nbsp;韶关乐昌</option>
-<option value="440282" data-id="1">440282&nbsp;韶关南雄</option>
-<option value="440301" data-id="0">440301&nbsp;深圳市辖</option>
-<option value="440303" data-id="0">440303&nbsp;深圳罗湖</option>
-<option value="440304" data-id="0">440304&nbsp;深圳福田</option>
-<option value="440305" data-id="0">440305&nbsp;深圳南山</option>
-<option value="440306" data-id="0">440306&nbsp;深圳宝安</option>
-<option value="440307" data-id="0">440307&nbsp;深圳龙岗</option>
-<option value="440308" data-id="0">440308&nbsp;深圳盐田</option>
-<option value="440309" data-id="0">440309&nbsp;深圳光明</option>
-<option value="440310" data-id="0">440310&nbsp;深圳坪山</option>
-<option value="440311" data-id="0">440311&nbsp;深圳龙华</option>
-<option value="440312" data-id="0">440312&nbsp;深圳大鹏</option>
-<option value="440401" data-id="0">440401&nbsp;珠海市辖</option>
-<option value="440402" data-id="0">440402&nbsp;珠海香洲</option>
-<option value="440403" data-id="0">440403&nbsp;珠海斗门</option>
-<option value="440404" data-id="0">440404&nbsp;珠海金湾</option>
-<option value="440501" data-id="0">440501&nbsp;汕头市辖</option>
-<option value="440507" data-id="0">440507&nbsp;汕头龙湖</option>
-<option value="440511" data-id="0">440511&nbsp;汕头金平</option>
-<option value="440512" data-id="0">440512&nbsp;汕头濠江</option>
-<option value="440513" data-id="0">440513&nbsp;汕头潮阳</option>
-<option value="440514" data-id="0">440514&nbsp;汕头潮南</option>
-<option value="440515" data-id="0">440515&nbsp;汕头澄海</option>
-<option value="440523" data-id="1">440523&nbsp;汕头南澳</option>
-<option value="440601" data-id="0">440601&nbsp;佛山市辖</option>
-<option value="440604" data-id="0">440604&nbsp;佛山禅城</option>
-<option value="440605" data-id="0">440605&nbsp;佛山南海</option>
-<option value="440606" data-id="0">440606&nbsp;佛山顺德</option>
-<option value="440607" data-id="0">440607&nbsp;佛山三水</option>
-<option value="440608" data-id="0">440608&nbsp;佛山高明</option>
-<option value="440701" data-id="0">440701&nbsp;江门市辖</option>
-<option value="440703" data-id="0">440703&nbsp;江门蓬江</option>
-<option value="440704" data-id="0">440704&nbsp;江门江海</option>
-<option value="440705" data-id="0">440705&nbsp;江门新会</option>
-<option value="440781" data-id="0">440781&nbsp;江门台山</option>
-<option value="440783" data-id="0">440783&nbsp;江门开平</option>
-<option value="440784" data-id="0">440784&nbsp;江门鹤山</option>
-<option value="440785" data-id="0">440785&nbsp;江门恩平</option>
-<option value="440801" data-id="0">440801&nbsp;湛江市辖</option>
-<option value="440802" data-id="0">440802&nbsp;湛江赤坎</option>
-<option value="440803" data-id="0">440803&nbsp;湛江霞山</option>
-<option value="440804" data-id="0">440804&nbsp;湛江坡头</option>
-<option value="440806" data-id="0">440806&nbsp;湛江开发</option>
-<option value="440811" data-id="0">440811&nbsp;湛江麻章</option>
-<option value="440823" data-id="0">440823&nbsp;湛江遂溪</option>
-<option value="440825" data-id="0">440825&nbsp;湛江徐闻</option>
-<option value="440881" data-id="0">440881&nbsp;湛江廉江</option>
-<option value="440882" data-id="0">440882&nbsp;湛江雷州</option>
-<option value="440883" data-id="0">440883&nbsp;湛江吴川</option>
-<option value="440901" data-id="0">440901&nbsp;茂名市辖</option>
-<option value="440902" data-id="0">440902&nbsp;茂名茂南</option>
-<option value="440903" data-id="0">440903&nbsp;茂名茂港</option>
-<option value="440923" data-id="0">440923&nbsp;茂名电白</option>
-<option value="440981" data-id="1">440981&nbsp;茂名高州</option>
-<option value="440982" data-id="0">440982&nbsp;茂名化州</option>
-<option value="440983" data-id="1">440983&nbsp;茂名信宜</option>
-<option value="441201" data-id="0">441201&nbsp;肇庆市辖</option>
-<option value="441202" data-id="0">441202&nbsp;肇庆端州</option>
-<option value="441203" data-id="0">441203&nbsp;肇庆鼎湖</option>
-<option value="441204" data-id="1">441204&nbsp;肇庆高要</option>
-<option value="441223" data-id="1">441223&nbsp;肇庆广宁</option>
-<option value="441224" data-id="1">441224&nbsp;肇庆怀集</option>
-<option value="441225" data-id="1">441225&nbsp;肇庆封开</option>
-<option value="441226" data-id="1">441226&nbsp;肇庆德庆</option>
-<option value="441284" data-id="0">441284&nbsp;肇庆四会</option>
-<option value="441291" data-id="0">441291&nbsp;肇庆大旺</option>
-<option value="441301" data-id="0">441301&nbsp;惠州市辖</option>
-<option value="441302" data-id="0">441302&nbsp;惠州惠城</option>
-<option value="441303" data-id="0">441303&nbsp;惠州惠阳</option>
-<option value="441306" data-id="0">441306&nbsp;惠州仲恺</option>
-<option value="441322" data-id="0">441322&nbsp;惠州博罗</option>
-<option value="441323" data-id="1">441323&nbsp;惠州惠东</option>
-<option value="441324" data-id="1">441324&nbsp;惠州龙门</option>
-<option value="441391" data-id="0">441391&nbsp;惠州亚湾</option>
-<option value="441401" data-id="0">441401&nbsp;梅州市辖</option>
-<option value="441402" data-id="1">441402&nbsp;梅州梅江</option>
-<option value="441421" data-id="1">441421&nbsp;梅州梅县</option>
-<option value="441422" data-id="1">441422&nbsp;梅州大埔</option>
-<option value="441423" data-id="1">441423&nbsp;梅州丰顺</option>
-<option value="441424" data-id="1">441424&nbsp;梅州五华</option>
-<option value="441426" data-id="1">441426&nbsp;梅州平远</option>
-<option value="441427" data-id="1">441427&nbsp;梅州蕉岭</option>
-<option value="441481" data-id="1">441481&nbsp;梅州兴宁</option>
-<option value="441501" data-id="0">441501&nbsp;汕尾市辖</option>
-<option value="441502" data-id="0">441502&nbsp;汕尾城区</option>
-<option value="441521" data-id="1">441521&nbsp;汕尾海丰</option>
-<option value="441523" data-id="1">441523&nbsp;汕尾陆河</option>
-<option value="441581" data-id="0">441581&nbsp;汕尾陆丰</option>
-<option value="441601" data-id="0">441601&nbsp;河源市辖</option>
-<option value="441602" data-id="0">441602&nbsp;河源源城</option>
-<option value="441609" data-id="">441609&nbsp;江东新区</option>
-<option value="441621" data-id="1">441621&nbsp;河源紫金</option>
-<option value="441622" data-id="1">441622&nbsp;河源龙川</option>
-<option value="441623" data-id="1">441623&nbsp;河源连平</option>
-<option value="441624" data-id="1">441624&nbsp;河源和平</option>
-<option value="441625" data-id="1">441625&nbsp;河源东源</option>
-<option value="441701" data-id="0">441701&nbsp;阳江市辖</option>
-<option value="441702" data-id="0">441702&nbsp;阳江江城</option>
-<option value="441721" data-id="0">441721&nbsp;阳江阳西</option>
-<option value="441722" data-id="0">441722&nbsp;阳江高新</option>
-<option value="441723" data-id="0">441723&nbsp;阳江阳东</option>
-<option value="441781" data-id="1">441781&nbsp;阳江阳春</option>
-<option value="441791" data-id="0">441791&nbsp;阳江海陵</option>
-<option value="441801" data-id="0">441801&nbsp;清远市辖</option>
-<option value="441802" data-id="0">441802&nbsp;清远清城</option>
-<option value="441821" data-id="1">441821&nbsp;清远佛冈</option>
-<option value="441823" data-id="1">441823&nbsp;清远阳山</option>
-<option value="441825" data-id="1">441825&nbsp;清远连山</option>
-<option value="441826" data-id="1">441826&nbsp;清远连南</option>
-<option value="441827" data-id="1">441827&nbsp;清远清新</option>
-<option value="441881" data-id="1">441881&nbsp;清远英德</option>
-<option value="441882" data-id="1">441882&nbsp;清远连州</option>
-<option value="441900" data-id="0">441900&nbsp;东莞市</option>
-<option value="442000" data-id="0">442000&nbsp;中山市</option>
-<option value="445101" data-id="0">445101&nbsp;潮州市辖</option>
-<option value="445102" data-id="0">445102&nbsp;潮州湘桥</option>
-<option value="445121" data-id="1">445121&nbsp;潮州潮安</option>
-<option value="445122" data-id="1">445122&nbsp;潮州饶平</option>
-<option value="445201" data-id="0">445201&nbsp;揭阳市辖</option>
-<option value="445202" data-id="0">445202&nbsp;揭阳榕城</option>
-<option value="445221" data-id="0">445221&nbsp;揭阳揭东</option>
-<option value="445222" data-id="1">445222&nbsp;揭阳揭西</option>
-<option value="445224" data-id="1">445224&nbsp;揭阳惠来</option>
-<option value="445281" data-id="1">445281&nbsp;揭阳普宁</option>
-<option value="445291" data-id="0">445291&nbsp;揭阳空港</option>
-<option value="445292" data-id="0">445292&nbsp;揭阳蓝城</option>
-<option value="445301" data-id="0">445301&nbsp;云浮市辖</option>
-<option value="445302" data-id="1">445302&nbsp;云浮云城</option>
-<option value="445321" data-id="1">445321&nbsp;云浮新兴</option>
-<option value="445322" data-id="1">445322&nbsp;云浮郁南</option>
-<option value="445323" data-id="1">445323&nbsp;云浮云安</option>
-<option value="445381" data-id="1">445381&nbsp;云浮罗定</option>
-<option value="999999" data-id="0">999999&nbsp;外省</option>
+
+440101-广州市辖
+440103-广州荔湾
+440104-广州越秀
+440105-广州海珠
+440106-广州天河
+440111-广州白云
+440112-广州黄埔
+440113-广州番禺
+440114-广州花都
+440115-广州南沙
+440117-广州从化
+440118-广州增城
+440201-韶关市辖
+440203-韶关武江
+440204-韶关浈江
+440205-韶关曲江
+440222-韶关始兴
+440224-韶关仁化
+440229-韶关翁源
+440232-韶关乳源
+440233-韶关新丰
+440281-韶关乐昌
+440282-韶关南雄
+440301-深圳市辖
+440303-深圳罗湖
+440304-深圳福田
+440305-深圳南山
+440306-深圳宝安
+440307-深圳龙岗
+440308-深圳盐田
+440309-深圳光明
+440310-深圳坪山
+440311-深圳龙华
+440312-深圳大鹏
+440401-珠海市辖
+440402-珠海香洲
+440403-珠海斗门
+440404-珠海金湾
+440501-汕头市辖
+440507-汕头龙湖
+440511-汕头金平
+440512-汕头濠江
+440513-汕头潮阳
+440514-汕头潮南
+440515-汕头澄海
+440523-汕头南澳
+440601-佛山市辖
+440604-佛山禅城
+440605-佛山南海
+440606-佛山顺德
+440607-佛山三水
+440608-佛山高明
+440701-江门市辖
+440703-江门蓬江
+440704-江门江海
+440705-江门新会
+440781-江门台山
+440783-江门开平
+440784-江门鹤山
+440785-江门恩平
+440801-湛江市辖
+440802-湛江赤坎
+440803-湛江霞山
+440804-湛江坡头
+440806-湛江开发
+440811-湛江麻章
+440823-湛江遂溪
+440825-湛江徐闻
+440881-湛江廉江
+440882-湛江雷州
+440883-湛江吴川
+440901-茂名市辖
+440902-茂名茂南
+440903-茂名茂港
+440923-茂名电白
+440981-茂名高州
+440982-茂名化州
+440983-茂名信宜
+441201-肇庆市辖
+441202-肇庆端州
+441203-肇庆鼎湖
+441204-肇庆高要
+441223-肇庆广宁
+441224-肇庆怀集
+441225-肇庆封开
+441226-肇庆德庆
+441284-肇庆四会
+441291-肇庆大旺
+441301-惠州市辖
+441302-惠州惠城
+441303-惠州惠阳
+441306-惠州仲恺
+441322-惠州博罗
+441323-惠州惠东
+441324-惠州龙门
+441391-惠州亚湾
+441401-梅州市辖
+441402-梅州梅江
+441421-梅州梅县
+441422-梅州大埔
+441423-梅州丰顺
+441424-梅州五华
+441426-梅州平远
+441427-梅州蕉岭
+441481-梅州兴宁
+441501-汕尾市辖
+441502-汕尾城区
+441521-汕尾海丰
+441523-汕尾陆河
+441581-汕尾陆丰
+441601-河源市辖
+441602-河源源城
+441609-江东新区
+441621-河源紫金
+441622-河源龙川
+441623-河源连平
+441624-河源和平
+441625-河源东源
+441701-阳江市辖
+441702-阳江江城
+441721-阳江阳西
+441722-阳江高新
+441723-阳江阳东
+441781-阳江阳春
+441791-阳江海陵
+441801-清远市辖
+441802-清远清城
+441821-清远佛冈
+441823-清远阳山
+441825-清远连山
+441826-清远连南
+441827-清远清新
+441881-清远英德
+441882-清远连州
+441900-东莞市
+442000-中山市
+445101-潮州市辖
+445102-潮州湘桥
+445121-潮州潮安
+445122-潮州饶平
+445201-揭阳市辖
+445202-揭阳榕城
+445221-揭阳揭东
+445222-揭阳揭西
+445224-揭阳惠来
+445281-揭阳普宁
+445291-揭阳空港
+445292-揭阳蓝城
+445301-云浮市辖
+445302-云浮云城
+445321-云浮新兴
+445322-云浮郁南
+445323-云浮云安
+445381-云浮罗定
+
